@@ -16,5 +16,7 @@
 
 6)The console will display all the encrypted and decrypted information
 
+Note: Bob will get  the orginal message and Jane will not get the original message as he is an eavesdropper.
+
 ![ecc](https://user-images.githubusercontent.com/93385316/145258601-cfa0d29f-7004-4d34-81b3-c3c89d9d3f07.PNG)
 
